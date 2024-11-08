@@ -1,0 +1,43 @@
+*{
+  	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,html{
+  background:darkgrey;
+  width:100%;
+  height: 100%;
+
+}
+
+section.container{
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  margin-top: 10px;
+}
+section.container h1{
+  text-transform: uppercase;
+ 
+}
+section a {
+  text-decoration: none;
+  color: #000;
+  text-decoration: none;
+
+}
+section.list{
+  margin:  20px 0;  
+  text-transform: uppercase;
+}
+section.list ul {
+  padding: 10px;
+}
+
+section.list span{
+  font-size: 14px;
+  padding: 2px;
+  color: aliceblue;
+  background-color: rgba(0, 0, 255, 0.548)
+}
